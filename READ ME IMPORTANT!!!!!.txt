@@ -1,0 +1,2 @@
+RUN THE FILE ON a LIVE SERVER.
+THEN only the animation will be visible :)
